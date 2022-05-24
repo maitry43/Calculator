@@ -13,9 +13,5 @@ def square(x,y):
 def divide(x,y):
   pass
 
-def print_name(x):
-  print(x)
-  pass
-
 def exp(x,y)
   pass
