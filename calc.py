@@ -8,17 +8,18 @@ def multiply(x,y):
   return x*y
 
 def square(x,y):
-  pass
+  return x*x
 
 def divide(x,y):
-  pass
+  return x/y
 
 def print_name(x):
-  print(x)
-  pass
+  return x
 
 def exp(x,y)
   pass
 
 def cube(x):
     return x*x*x
+
+
