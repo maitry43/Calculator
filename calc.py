@@ -19,3 +19,6 @@ def print_name(x):
 
 def exp(x,y)
   pass
+
+def cube(x):
+    return x*x*x
