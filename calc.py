@@ -14,4 +14,3 @@ def divide(x,y):
   pass
 
 def exp(x,y)
-  pass
